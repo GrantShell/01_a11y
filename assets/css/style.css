@@ -22,7 +22,7 @@ body {
 }
 
 .header h1 .seo {
-  color: #d9dcd6;
+  color: #54e412;
 }
 
 .header div {
@@ -181,4 +181,9 @@ h3 {
 
 .footer h2 {
   font-size: 20px;
+}
+
+a:hover {
+  background-color: #f1f50881;
+  color: #000000;
 }
